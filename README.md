@@ -7,3 +7,5 @@ technologies used:-
 3) React.Js
 4) Javascript
 5) Async-Await
+
+Live deployed project - https://covid-19-tracker-f5bbe.web.app
